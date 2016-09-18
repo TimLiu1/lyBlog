@@ -1,5 +1,6 @@
 {
-     "loggerLevel": "debug",
+    "port":8888,
+    "loggerLevel": "debug",
     "express": {
         "view cache": false,
         "view engine": "dust",

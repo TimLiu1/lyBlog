@@ -1,5 +1,5 @@
 {
-
+    "port":8888,
     "loggerLevel": "info",
     "express": {
         "view cache": false,
