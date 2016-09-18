@@ -1,0 +1,21 @@
+{
+  "name": "tim",
+  "description": "Tim&#39;s web",
+  "main": "index.js",
+  "author": "Tim",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flat-ui": "^2.3.0"
+  }
+}
