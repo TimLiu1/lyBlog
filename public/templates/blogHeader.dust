@@ -10,7 +10,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbar-collapse-5">
           <ul class="nav navbar-nav">
-            <li><a href="#">Messages<span class="navbar-unread">1</span></a></li>
+            <li><a href="#">Messages Lisa<span class="navbar-unread">1</span></a></li>
             <li class="active"><a href="#">About Us</a></li>
             <li><a href="#">Clients</a></li>
            </ul>
